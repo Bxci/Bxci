@@ -1,8 +1,9 @@
 # Welcome to My Profile! 👋
 
+# My name is: Ben
+
 ## About Me
-- 🔍 Cyber Security Student  
-- 💻 Learning about **Kali Linux** and security tools  
+- 🔍 Cyber Security Student   
 - 🖥️ Experienced with:
   - **Shell Scripting (Bash)**
   - **JavaScript**
