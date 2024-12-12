@@ -19,6 +19,7 @@
 
 ## 🚀 Featured Projects
 - [nmap-whois-nipe](https://github.com/Bxci/nmap-whois-nipe): This script working with Nipe And Whois to dump some info from the user.
+- [memory-analysis](https://github.com/Bxci/memory-analysis): This script working with vol, and dump some info from memory file.
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bxci&show_icons=true&theme=radical)
