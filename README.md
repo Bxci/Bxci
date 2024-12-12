@@ -18,7 +18,7 @@
 </p>
 
 ## 🚀 Featured Projects
-- [Project Name 1](https://github.com/Bxci/nmap-whois-nipe): This script working with Nipe And Whois to dump some info from the user.
+- [nmap-whois-nipe](https://github.com/Bxci/nmap-whois-nipe): This script working with Nipe And Whois to dump some info from the user.
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bxci&show_icons=true&theme=radical)
