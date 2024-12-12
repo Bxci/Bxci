@@ -1,8 +1,7 @@
 # Welcome to My Profile! 👋
 
-# My name is: Ben
-
 ## About Me
+- ✨ My name is: Ben
 - 🔍 Cyber Security Student   
 - 🖥️ Experienced with:
   - **Shell Scripting (Bash)**
