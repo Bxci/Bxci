@@ -22,6 +22,8 @@
 
 ## 📫 How to Reach Me:
 - 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bxci/)
+- 🔗 Discord: .bxci.
+- 🀄 Linktree: https://linktr.ee/bxci
 
 ## Fun Fact:
 I enjoy solving challenges in Linux and scripting environments to boost my problem-solving skills! 🚀
