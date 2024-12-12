@@ -21,9 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me:
-- 🌐 [My Website](https://yourwebsite.com)
-- 📧 Email: yourmail@example.com
-- 💬 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bxci/)
 
 ## Fun Fact:
 I enjoy solving challenges in Linux and scripting environments to boost my problem-solving skills! 🚀
