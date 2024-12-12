@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+## 🚀 Featured Projects
+- [Project Name 1](https://github.com/Bxci/nmap-whois-nipe): This script working with Nipe And Whois to dump some info from the user.
+
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bxci&show_icons=true&theme=radical)
 
