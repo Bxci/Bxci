@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats:
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Bxci.Bxci)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bxci&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me:
 - 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bxci/)
