@@ -22,9 +22,6 @@
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Bxci.Bxci)
 
-![Snake Animation](https://github.com/Bxci/Bxci/blob/output/github-contribution-grid-snake.svg)
-
-
 ## 📫 How to Reach Me:
 - 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bxci/)
 - 🔗 Discord: .bxci.
