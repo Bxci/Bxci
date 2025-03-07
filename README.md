@@ -30,7 +30,7 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Bxci.Bxci)
 
 ## 📫 How to Reach Me:
-- 🏆 Guns.lol: guns.lol/bxci
+- 🏆 Guns.lol: https://www.guns.lol/bxci
 - 💬 LinkedIn: https://www.linkedin.com/in/bxci/
 - 🔗 Discord: .bxci.
 - 🀄 Linktree: https://linktr.ee/bxci
