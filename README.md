@@ -18,8 +18,11 @@
 </p>
 
 ## 🚀 Featured Projects
-- [nmap-whois-nipe](https://github.com/Bxci/nmap-whois-nipe): This script working with Nipe And Whois to dump some info from the user.
-- [memory-analysis](https://github.com/Bxci/memory-analysis): This script working with vol, and dump some info from memory file.
+[Intro To Cyber](https://github.com/Bxci/Intro-to-cyber): This is a script from the begin of the cybersec learning, just a Ethernet/Wifi scanner and sniffer.
+[Memory Analysis](https://github.com/Bxci/memory-analysis) : This is my 2nd script analyse a memory dump, its dumping a hashses and more then, just take a look.
+[Anonymous Connection](https://github.com/Bxci/nmap-whois-nipe): This is my Anonymous script whos automate a connaction to another pc and spoof the real IP with "NIPE"
+[PT Project](https://github.com/Bxci/Project-3---PT): This is my script whos scanning a IP to find a - Access, Vulnerabilities, brute forcing and more.
+[SOC Project](https://github.com/Bxci/soc-pj): This is my last project for the studing after a bleed on that project a write that on 4 hours with a lot of debugging, that script make a run on a IP you gave, and start to SNIFF and Analyse the network quiet.
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bxci&show_icons=true&theme=radical)
