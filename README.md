@@ -5,7 +5,7 @@
 - 🔍 Cyber Security Student   
 - 🖥️ Experienced with:
   - **Shell Scripting (Bash)**
-  - **JavaScript**
+  - **PowerShell**
   - **Python**
 - 🌱 Constantly improving my skills in Linux environments and scripting  
 
