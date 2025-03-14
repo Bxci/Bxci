@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester&center=true&width=500)
-
-![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester;Linux+User+%26+Coder)
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder)
 ## About Me
 - ✨ My name is: Ben
 - 🔍 Cyber Security Student   
