@@ -1,5 +1,8 @@
 ![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder)
 
+[![Discord](https://img.shields.io/badge/Discord-BenCohen%230001-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Your_Discord_ID_HERE)
+
+
 ## About Me
 - ✨ My name is: Ben
 - 🔍 Cyber Security Student   
