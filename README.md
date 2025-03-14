@@ -1,11 +1,8 @@
-![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder) ![Waving Hand Animation](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)  
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder)
 
 ![Music Wave](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&background=000000&center=true&width=500&lines=🎵+Now+Playing...;Cybersecurity+Beats+%F0%9F%94%92;SOC+Work+Mode+Activated!)
 
 ![Glitch Text](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=%3Croot%3E+Cybersecurity+Mode;Hacking+in+progress...)
-
-
-![Hacker Terminal](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=System+Booting...;Authenticating+User...;Access+Granted+%E2%9C%94)
 
 ## About Me
 - ✨ My name is: Ben
@@ -15,6 +12,8 @@
   - **PowerShell**
   - **Python**
 - 🌱 Constantly improving my skills in Linux environments and scripting  
+
+![Hacker Terminal](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=System+Booting...;Authenticating+User...;Access+Granted+%E2%9C%94)
 
 ## 🛠️ Technologies I Work With:
 <p align="left">
