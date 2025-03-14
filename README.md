@@ -2,7 +2,7 @@
 
 ## About Me
 - ✨ My name is: Ben
-- 🔍 Cyber Security Student   
+- 🔍 Cyber Security Analyst
 - 🖥️ Experienced with:
   - **Shell Scripting (Bash)**
   - **PowerShell**
