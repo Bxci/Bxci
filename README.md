@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester&center=true&width=500)
+
 # Welcome to My Profile! 👋
 
 ## About Me
@@ -37,6 +39,3 @@
 
 ## Fun Fact:
 I enjoy solving challenges in Linux and scripting environments to boost my problem-solving skills! 🚀
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester&center=true&width=500)
-
