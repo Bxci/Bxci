@@ -2,9 +2,6 @@
 
 ![Music Wave](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&background=000000&center=true&width=500&lines=🎵+Now+Playing...;Cybersecurity+Beats+%F0%9F%94%92;SOC+Work+Mode+Activated!)
 
-![Globe](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
-
 ![Glitch Text](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=%3Croot%3E+Cybersecurity+Mode;Hacking+in+progress...)
 
 
