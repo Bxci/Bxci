@@ -1,7 +1,4 @@
-![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder)
-
-![Waving Hand Animation](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)  
-**Hey there!** 👋
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder) ![Waving Hand Animation](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)  
 
 ![Music Wave](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&background=000000&center=true&width=500&lines=🎵+Now+Playing...;Cybersecurity+Beats+%F0%9F%94%92;SOC+Work+Mode+Activated!)
 
