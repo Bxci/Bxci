@@ -2,10 +2,6 @@
 
 ![Music Wave](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&background=000000&center=true&width=500&lines=🎵+Now+Playing...;Cybersecurity+Beats+%F0%9F%94%92;SOC+Work+Mode+Activated!)
 
-
-![Gradient Banner](https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/main/resources/banner.svg)
-
-
 ![Globe](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
