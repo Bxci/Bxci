@@ -7,10 +7,6 @@
 
 ![Hacker Terminal](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=System+Booting...;Authenticating+User...;Access+Granted+%E2%9C%94)
 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bxci&theme=onestar&margin-w=15&column=7)
-
-
 ## About Me
 - ✨ My name is: Ben
 - 🔍 Cyber Security Student   
@@ -45,6 +41,8 @@
 - 💬 LinkedIn: https://www.linkedin.com/in/bxci/
 - 🔗 Discord: .bxci.
 - 🀄 Linktree: https://linktr.ee/bxci
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bxci&theme=onestar&margin-w=15&column=7)
 
 ## Fun Fact:
 I enjoy solving challenges in Linux and scripting environments to boost my problem-solving skills! 🚀
