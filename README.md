@@ -37,3 +37,16 @@
 
 ## Fun Fact:
 I enjoy solving challenges in Linux and scripting environments to boost my problem-solving skills! 🚀
+
+<h1 class="animate-text">Hello, I'm Ben Cohen 👋</h1>
+
+<style>
+  @keyframes slideIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  .animate-text {
+    animation: slideIn 1.5s ease-in-out;
+  }
+</style>
+
