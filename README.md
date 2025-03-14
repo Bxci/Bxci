@@ -1,4 +1,26 @@
 ![Scrolling Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Welcome+to+My+GitHub!;Cybersecurity+Enthusiast;SOC+Analyst;Penetration+Tester+%26+Coder)
+
+![Waving Hand Animation](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)  
+**Hey there!** 👋
+
+![Music Wave](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&background=000000&center=true&width=500&lines=🎵+Now+Playing...;Cybersecurity+Beats+%F0%9F%94%92;SOC+Work+Mode+Activated!)
+
+
+![Gradient Banner](https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/main/resources/banner.svg)
+
+
+![Globe](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+
+![Glitch Text](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=%3Croot%3E+Cybersecurity+Mode;Hacking+in+progress...)
+
+
+![Hacker Terminal](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=System+Booting...;Authenticating+User...;Access+Granted+%E2%9C%94)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bxci&theme=onestar&margin-w=15&column=7)
+
+
 ## About Me
 - ✨ My name is: Ben
 - 🔍 Cyber Security Student   
