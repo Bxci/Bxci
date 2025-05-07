@@ -37,7 +37,7 @@
 ## 📫 How to Reach Me:
 - 🏆 Guns.lol: https://www.guns.lol/bxci
 - 🔗 Discord: .bxci.
-- 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1029860765366239327?showDisplayName=false)](https://discord.com/users/1029860765366239327)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bxci&theme=onestar&margin-w=15&column=7)
